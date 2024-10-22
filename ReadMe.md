@@ -1,16 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Tharindu De Silva!<br>I’m a passionate software developer with expertise in Laravel, <br>backend development,and cloud technologies. <br>With a BSc (Hons) in Computer Science (Cloud Technologies), <br>I’ve worked on several projects ranging from web applications to system automation, <br>gaining hands-on experience in:
 
-💻 Technologies & Tools:
-
-Frameworks: Laravel, Node.js, .NET, Angular
-Programming Languages: PHP, JavaScript, TypeScript, C#
-Databases: SQL, MySQL, Oracle, NoSQL (DynamoDB, MongoDB)
-Cloud Platforms: AWS (EC2, S3, Lambda, DynamoDB, SNS), Azure
-UI/UX Design Tools: Figma
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tharindugayanthadesilva?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tharindugayanthadesilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tharindu-de-silva-3836401ab/) 
 
